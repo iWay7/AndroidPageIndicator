@@ -19,8 +19,6 @@
         android:layout_marginBottom="50dp"
         app:indicatorSpacing="5dp"
         app:pageCount="3"
-        app:pageIndex="0"
-        app:resSelected=""
-        app:resUnselected=""/>
+        app:pageIndex="0" />
 
 </FrameLayout>
